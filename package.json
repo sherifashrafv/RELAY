@@ -3,6 +3,7 @@
   "private": true,
   "packageManager": "pnpm@11.22.0",
   "devDependencies": {
+    "tsx": "^4.23.15",
     "typescript": "^7.0.2"
   }
 }
